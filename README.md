@@ -5,7 +5,7 @@ Este repositorio fue creado para compartir los recursos relacionados al trabajo 
   <img src="https://www.uaa.edu.py/cdn/images/b05793dc7214fa145ec5317aceee.png">
 </p>
 
-***Docente:***  MSC. BLANCA DUARTE SERVIÁN
+***Grupo 15:*** Jose Allan del Pino Lemoine
 
 * ***Recursos***
 
