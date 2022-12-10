@@ -3,6 +3,6 @@ Este repositorio fue creado para compartir los recursos relacionados al trabajo 
 
 * ***Recursos***
 
-  * [Presentacion](https://pages.github.com/)
-  * [Codigo fuente](https://pages.github.com/)
+  * [Presentacion](https://github.com/joseallandp/arreglospython/blob/main/recursos/Presentacion%20-%20Arreglos%20en%20Python%20Grupo%2015.pptx)
+  * [Codigo fuente](https://github.com/joseallandp/arreglospython/blob/main/arreglos.py)
 
